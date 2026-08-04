@@ -1,0 +1,9 @@
+﻿node_modules
+dist
+.env
+
+.claude/
+.claude.json
+claude.config.json
+
+CLAUDE.md
